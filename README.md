@@ -1,4 +1,4 @@
-# 🎬 Video Scene Classification Engine: CNN-LSTM Architecture
+# 🎬 Video Scene Classification Engine
 
 **Course:** Deep Learning (CSTC - 308)  
 **Team Members:** Akansha Patel (123110019), Nanshi (123110022), Sanchi (123110032), Sneha (123110054)
